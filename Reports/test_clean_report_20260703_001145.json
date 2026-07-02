@@ -1,0 +1,116 @@
+﻿{
+  "summary": {
+    "root": "D:\\chrome downloads\\test",
+    "dry_run": true,
+    "files_seen": 227,
+    "files_processed": 227,
+    "files_changed": 10,
+    "bsl_comments_removed": 76,
+    "xml_comments_removed": 0,
+    "comment_fields_cleared": 2,
+    "skipped": 0,
+    "errors": 0
+  },
+  "files": [
+    {
+      "path": "DataProcessors\\РасчетПремий\\Forms\\Форма\\Ext\\Form\\Module.bsl",
+      "changed": true,
+      "bsl_comments_removed": 4,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 0,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "DataProcessors\\УстановкаЦенПродажи\\Forms\\Форма\\Ext\\Form\\Module.bsl",
+      "changed": true,
+      "bsl_comments_removed": 30,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 0,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "CommonModules\\РаботаСИННКППСервер\\Ext\\Module.bsl",
+      "changed": true,
+      "bsl_comments_removed": 2,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 0,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "CommonModules\\РаботаСоСтруктурамиВызовСервера\\Ext\\Module.bsl",
+      "changed": true,
+      "bsl_comments_removed": 2,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 0,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "CommonModules\\РаботаСоСтруктурамиСервер\\Ext\\Module.bsl",
+      "changed": true,
+      "bsl_comments_removed": 2,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 0,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "CommonModules\\РаботаСПользователямиСервер\\Ext\\Module.bsl",
+      "changed": true,
+      "bsl_comments_removed": 25,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 0,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "Catalogs\\Контрагенты\\Ext\\ObjectModule.bsl",
+      "changed": true,
+      "bsl_comments_removed": 1,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 0,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "Ext\\ManagedApplicationModule.bsl",
+      "changed": true,
+      "bsl_comments_removed": 10,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 0,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "SessionParameters\\СотрудникТекущегоПользователя.xml",
+      "changed": true,
+      "bsl_comments_removed": 0,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 1,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "Catalogs\\Контрагенты.xml",
+      "changed": true,
+      "bsl_comments_removed": 0,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 1,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    }
+  ]
+}

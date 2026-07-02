@@ -1,0 +1,76 @@
+﻿{
+  "summary": {
+    "root": "D:\\КАЙокохамаКонфигурация\\AccountingRegisters",
+    "dry_run": true,
+    "files_seen": 50,
+    "files_processed": 50,
+    "files_changed": 6,
+    "bsl_comments_removed": 0,
+    "xml_comments_removed": 0,
+    "comment_fields_cleared": 30,
+    "errors": 0,
+    "skipped": 0
+  },
+  "files": [
+    {
+      "path": "бит_Бюджетирование.xml",
+      "changed": true,
+      "bsl_comments_removed": 0,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 4,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "бит_Дополнительный_2.xml",
+      "changed": true,
+      "bsl_comments_removed": 0,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 6,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "бит_Дополнительный_3.xml",
+      "changed": true,
+      "bsl_comments_removed": 0,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 5,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "бит_Дополнительный_1.xml",
+      "changed": true,
+      "bsl_comments_removed": 0,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 5,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "бит_Дополнительный_4.xml",
+      "changed": true,
+      "bsl_comments_removed": 0,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 5,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "path": "бит_Дополнительный_5.xml",
+      "changed": true,
+      "bsl_comments_removed": 0,
+      "xml_comments_removed": 0,
+      "comment_fields_cleared": 5,
+      "skipped": false,
+      "skip_reason": null,
+      "error": null
+    }
+  ]
+}

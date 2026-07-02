@@ -1,0 +1,6 @@
+Python runtime:
+  Version: 3.13.14 x64 embeddable package
+  Source: https://www.python.org/ftp/python/3.13.14/python-3.13.14-embed-amd64.zip
+
+This package uses 1CCommentCleaner\python\python.exe directly and does not
+require Python to be installed or available in PATH.
